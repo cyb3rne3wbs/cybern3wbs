@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/realkekatron/realkekatron/blob/main/logo-white-banner.png)](https://realkekatron.io)
 <h1 align="center">Hi 👋, I'm Kekatron!</h1>
-<h3 align="center">An IT "semi-professional" passionately learning about technology and cybersecurity</h3>
+<h3 align="center">A "semi-professional" IT beginner interested in learning about technology and cybersecurity</h3>
 
 
 - 🔭 I’m currently working on **: Network+ Cert**
