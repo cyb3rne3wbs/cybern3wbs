@@ -1,19 +1,61 @@
-[![MasterHead](https://github.com/realkekatron/realkekatron/blob/main/logo-white-banner.png)](https://realkekatron.io)
-<h1 align="center">Hi 👋, I'm Kekatron!</h1>
-<h3 align="center">A "semi-professional" IT beginner interested in learning about technology and cybersecurity</h3>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Erika! </h1></summary>
+  </ul>
+</div>
 
 
-- 🔭 I’m currently working on **: Network+ Cert**
+<!--About Me-->
 
-- 🌱 I’m currently learning **: CyberSecurity, Server, Cloud**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-- ⚡ Fun fact **: A number of people in my head thinks I'm funny**
+<picture> <img align="right" src="https://media.giphy.com/media/10FwycrnAkpshW/giphy.gif" width = 300px></picture>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kekatron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kekatron" height="30" width="40" /></a>
-<a href="https://fb.com/opsnotme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="opsnotme" height="30" width="40" /></a>
-<a href="https://instagram.com/opsnotme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="opsnotme" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kekatron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kekatron" height="30" width="40" /></a>
-<a href="https://discord.gg/kekatronicles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kekatronicles" height="30" width="40" /></a>
-</p>
+- 💻: I am a newbie on `CyberSecurity` field
+- 🏫: I graduated with a Bachelor's degree in IT a long time ago.... 
+- 🥠: Shifted IT career to Cyber Security last 2020 without prior experience 
+- :technologist: **Currently working as** `Blue Team` **&** `SOC` for a multinational company
+- :email: Feel free to `reach out`: 
+- :nerd_face: Need motivation to `keep studying`
+
+<br>
+
+## 🛠️ My Skills
+
+### Troubleshooting
+
+- Windows 7/8/10/11 Troubleshooting
+- Active Directory
+- Microsoft 365
+- Enterprise apps
+..anything you have, I can learn easily (a bit lazy to type :D)
+
+### Blue Team
+
+- SIEM - USM, Rapid7, TheHive, Wazuh
+- EDR: Carbon Black, SentinelOne
+- Threat Intelligence: Common OSINT Tools, MISP
+- Defensive Security
+- Web Application Firewall
+- IDRs
+- Defender for Cloud
+- Microsoft Azure / Entra ID - IAM
+
+### Certifications
+
+- ITIL v3 
+- CompTIA Sec+
+- NSE 1, NSE 2, NSE 3
+
+### Currently working on: 
+- Networking Basics
+- Practical Malware Analysis
+- Cloud Platforms (GCP, AWS)
+
+<br>
+
